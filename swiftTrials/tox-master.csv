@@ -1,0 +1,2511 @@
+CCCCCCC(=O)O,Effect,Probability
+Human Intestinal Absorption,+,0.9936
+Caco-2,+,0.852
+Blood Brain Barrier,+,0.85
+Human oral bioavailability,-,0.6714
+Subcellular localzation,Mitochondria,0.5152
+OATP2B1 inhibitior,-,0.8374
+OATP1B1 inhibitior,+,0.8902
+OATP1B3 inhibitior,-,0.3662
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.9383
+P-glycoprotein inhibitior,-,0.9892
+P-glycoprotein substrate,-,0.9647
+CYP3A4 substrate,-,0.7568
+CYP2C9 substrate,+,0.672
+CYP2D6 substrate,-,0.8901
+CYP3A4 inhibition,-,0.9484
+CYP2C9 inhibition,-,0.8808
+CYP2C19 inhibition,-,0.9578
+CYP2D6 inhibition,-,0.9554
+CYP1A2 inhibition,+,0.8326
+CYP2C8 inhibition,-,0.9749
+CYP inhibitory promiscuity,-,0.9647
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.7035
+Carcinogenicity (trinary),Non-required,0.7057
+Eye corrosion,+,0.9827
+Eye irritation,+,0.9768
+Skin irritation,+,0.7702
+Skin corrosion,+,0.7927
+Ames mutagenesis,-,1
+Human Ether-a-go-go-Related Gene inhibition,-,0.8351
+Micronuclear,-,1
+Hepatotoxicity,+,0.7625
+skin sensitisation,+,0.8147
+Respiratory toxicity,-,0.7333
+Reproductive toxicity,-,0.6972
+Mitochondrial toxicity,+,0.55
+Nephrotoxicity,-,0.572
+Acute Oral Toxicity (c),IV,0.6378
+Estrogen receptor binding,-,0.9679
+Androgen receptor binding,-,0.9011
+Thyroid receptor binding,-,0.8868
+Glucocorticoid receptor binding,-,0.8846
+Aromatase binding,-,0.8732
+PPAR gamma,-,0.7437
+Honey bee toxicity,-,0.9981
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,+,0.741
+Fish aquatic toxicity,+,0.9178
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-3.502,logS
+Plasma protein binding,0.312,100%
+Acute Oral Toxicity,1.469,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.168,pIGC50 (ug/L)
+ 
+ CCOC(=O)C,Effect,Probability
+Human Intestinal Absorption,+,1
+Caco-2,+,0.6795
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.5857
+Subcellular localzation,Mitochondria,0.7194
+OATP2B1 inhibitior,-,0.8616
+OATP1B1 inhibitior,+,0.9686
+OATP1B3 inhibitior,+,0.9522
+MATE1 inhibitior,-,0.92
+OCT2 inhibitior,-,0.9
+BSEP inhibitior,-,0.8748
+P-glycoprotein inhibitior,-,0.9864
+P-glycoprotein substrate,-,0.9952
+CYP3A4 substrate,-,0.6976
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.8836
+CYP3A4 inhibition,-,0.9801
+CYP2C9 inhibition,-,0.9386
+CYP2C19 inhibition,-,0.9506
+CYP2D6 inhibition,-,0.9531
+CYP1A2 inhibition,-,0.6609
+CYP2C8 inhibition,-,0.9885
+CYP inhibitory promiscuity,-,0.8869
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5574
+Carcinogenicity (trinary),Non-required,0.6906
+Eye corrosion,+,0.992
+Eye irritation,+,0.995
+Skin irritation,+,0.9359
+Skin corrosion,-,0.8424
+Ames mutagenesis,-,0.92
+Human Ether-a-go-go-Related Gene inhibition,-,0.8425
+Micronuclear,-,0.99
+Hepatotoxicity,+,0.5185
+skin sensitisation,+,0.5
+Respiratory toxicity,-,0.9889
+Reproductive toxicity,-,0.6556
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.7185
+Acute Oral Toxicity (c),IV,0.636
+Estrogen receptor binding,-,0.9394
+Androgen receptor binding,-,0.9413
+Thyroid receptor binding,-,0.9242
+Glucocorticoid receptor binding,-,0.948
+Aromatase binding,-,0.8892
+PPAR gamma,-,0.9268
+Honey bee toxicity,-,0.9477
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,-,0.8255
+Fish aquatic toxicity,+,0.746
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.103,logS
+Plasma protein binding,-0.19,100%
+Acute Oral Toxicity,1.34,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.384,pIGC50 (ug/L)
+  
+CCC(=O)O, Effect,Probability
+Human Intestinal Absorption,+,0.9942
+Caco-2,+,0.644
+Blood Brain Barrier,+,0.825
+Human oral bioavailability,+,0.7286
+Subcellular localzation,Mitochondria,0.5849
+OATP2B1 inhibitior,-,0.8637
+OATP1B1 inhibitior,+,0.9599
+OATP1B3 inhibitior,+,0.935
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,1
+BSEP inhibitior,-,0.9395
+P-glycoprotein inhibitior,-,0.9889
+P-glycoprotein substrate,-,0.9936
+CYP3A4 substrate,-,0.8419
+CYP2C9 substrate,+,0.672
+CYP2D6 substrate,-,0.8901
+CYP3A4 inhibition,-,0.9763
+CYP2C9 inhibition,-,0.9639
+CYP2C19 inhibition,-,0.9794
+CYP2D6 inhibition,-,0.9667
+CYP1A2 inhibition,-,0.8922
+CYP2C8 inhibition,-,0.9914
+CYP inhibitory promiscuity,-,0.9876
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5765
+Carcinogenicity (trinary),Non-required,0.7073
+Eye corrosion,+,0.9968
+Eye irritation,+,0.9832
+Skin irritation,+,0.9441
+Skin corrosion,+,0.993
+Ames mutagenesis,-,0.98
+Human Ether-a-go-go-Related Gene inhibition,-,0.8258
+Micronuclear,-,0.9626
+Hepatotoxicity,-,0.65
+skin sensitisation,-,0.6043
+Respiratory toxicity,-,0.9333
+Reproductive toxicity,+,0.7556
+Mitochondrial toxicity,-,0.9625
+Nephrotoxicity,-,0.6939
+Acute Oral Toxicity (c),III,0.9124
+Estrogen receptor binding,-,0.9554
+Androgen receptor binding,-,0.9389
+Thyroid receptor binding,-,0.8968
+Glucocorticoid receptor binding,-,0.9318
+Aromatase binding,-,0.9111
+PPAR gamma,-,0.8545
+Honey bee toxicity,-,0.9954
+Biodegradation,+,1
+Crustacea aquatic toxicity,-,0.91
+Fish aquatic toxicity,-,0.809
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,0.607,logS
+Plasma protein binding,-0.025,100%
+Acute Oral Toxicity,1.05,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.506,pIGC50 (ug/L)
+  
+CC(C)N,Effect,Probability
+Human Intestinal Absorption,+,0.9965
+Caco-2,-,0.6456
+Blood Brain Barrier,+,0.925
+Human oral bioavailability,+,0.7857
+Subcellular localzation,Lysosomes,0.9252
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.9853
+OATP1B3 inhibitior,+,0.96
+MATE1 inhibitior,-,0.96
+OCT2 inhibitior,-,0.95
+BSEP inhibitior,-,0.9364
+P-glycoprotein inhibitior,-,0.9864
+P-glycoprotein substrate,-,0.9879
+CYP3A4 substrate,-,0.8728
+CYP2C9 substrate,-,1
+CYP2D6 substrate,+,0.3682
+CYP3A4 inhibition,-,0.9752
+CYP2C9 inhibition,-,0.9599
+CYP2C19 inhibition,-,0.9588
+CYP2D6 inhibition,-,0.8757
+CYP1A2 inhibition,-,0.9376
+CYP2C8 inhibition,-,0.9989
+CYP inhibitory promiscuity,-,0.966
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.59
+Carcinogenicity (trinary),Non-required,0.6063
+Eye corrosion,+,0.996
+Eye irritation,+,0.9841
+Skin irritation,+,0.8234
+Skin corrosion,+,0.977
+Ames mutagenesis,-,0.9683
+Human Ether-a-go-go-Related Gene inhibition,-,0.8018
+Micronuclear,-,0.58
+Hepatotoxicity,+,0.85
+skin sensitisation,-,0.7673
+Respiratory toxicity,-,0.6556
+Reproductive toxicity,-,0.9
+Mitochondrial toxicity,-,0.85
+Nephrotoxicity,+,0.5332
+Acute Oral Toxicity (c),II,0.7282
+Estrogen receptor binding,-,0.9429
+Androgen receptor binding,-,0.9514
+Thyroid receptor binding,-,0.849
+Glucocorticoid receptor binding,-,0.9298
+Aromatase binding,-,0.8899
+PPAR gamma,-,0.9154
+Honey bee toxicity,-,0.769
+Biodegradation,+,0.575
+Crustacea aquatic toxicity,-,0.83
+Fish aquatic toxicity,-,0.7953
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,0.255,logS
+Plasma protein binding,0.866,100%
+Acute Oral Toxicity,2.474,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.791,pIGC50 (ug/L)
+  
+C(CNCCN)N,Effect,Probability
+Human Intestinal Absorption,+,0.8869
+Caco-2,+,0.6784
+Blood Brain Barrier,+,0.75
+Human oral bioavailability,+,0.9
+Subcellular localzation,Lysosomes,0.8849
+OATP2B1 inhibitior,-,0.8631
+OATP1B1 inhibitior,+,0.9716
+OATP1B3 inhibitior,+,0.9524
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.7
+BSEP inhibitior,-,0.9581
+P-glycoprotein inhibitior,-,0.9813
+P-glycoprotein substrate,-,0.7105
+CYP3A4 substrate,-,0.8126
+CYP2C9 substrate,-,1
+CYP2D6 substrate,+,0.4754
+CYP3A4 inhibition,-,0.975
+CYP2C9 inhibition,-,0.9162
+CYP2C19 inhibition,-,0.8959
+CYP2D6 inhibition,-,0.9611
+CYP1A2 inhibition,-,0.8571
+CYP2C8 inhibition,-,0.9713
+CYP inhibitory promiscuity,-,0.9608
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.52
+Carcinogenicity (trinary),Non-required,0.6425
+Eye corrosion,+,0.9963
+Eye irritation,+,0.913
+Skin irritation,+,0.8472
+Skin corrosion,+,0.9875
+Ames mutagenesis,+,0.64
+Human Ether-a-go-go-Related Gene inhibition,-,0.7115
+Micronuclear,-,0.85
+Hepatotoxicity,-,0.8375
+skin sensitisation,+,0.9333
+Respiratory toxicity,+,0.9222
+Reproductive toxicity,-,0.5382
+Mitochondrial toxicity,+,0.95
+Nephrotoxicity,+,0.5
+Acute Oral Toxicity (c),III,0.8436
+Estrogen receptor binding,-,0.937
+Androgen receptor binding,-,0.9354
+Thyroid receptor binding,-,0.8316
+Glucocorticoid receptor binding,-,0.8709
+Aromatase binding,-,0.9207
+PPAR gamma,-,0.8664
+Honey bee toxicity,-,0.9572
+Biodegradation,-,0.875
+Crustacea aquatic toxicity,-,0.68
+Fish aquatic toxicity,-,0.8941
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.109,logS
+Plasma protein binding,0.275,100%
+Acute Oral Toxicity,1.987,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.356,pIGC50 (ug/L)
+  
+C1CCC(=O)CC1,Effect,Probability
+Human Intestinal Absorption,+,0.9954
+Caco-2,+,0.8005
+Blood Brain Barrier,+,0.8
+Human oral bioavailability,+,0.8857
+Subcellular localzation,Mitochondria,0.7061
+OATP2B1 inhibitior,-,0.8477
+OATP1B1 inhibitior,+,0.9836
+OATP1B3 inhibitior,+,0.9703
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.825
+BSEP inhibitior,-,0.9566
+P-glycoprotein inhibitior,-,0.9888
+P-glycoprotein substrate,-,0.9971
+CYP3A4 substrate,-,0.8125
+CYP2C9 substrate,-,0.8484
+CYP2D6 substrate,-,0.7422
+CYP3A4 inhibition,-,0.9755
+CYP2C9 inhibition,-,0.8553
+CYP2C19 inhibition,-,0.9532
+CYP2D6 inhibition,-,0.9743
+CYP1A2 inhibition,-,0.8979
+CYP2C8 inhibition,-,0.9965
+CYP inhibitory promiscuity,-,0.9431
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.82
+Carcinogenicity (trinary),Non-required,0.7278
+Eye corrosion,+,0.9905
+Eye irritation,+,0.9953
+Skin irritation,+,0.8623
+Skin corrosion,+,0.6526
+Ames mutagenesis,-,0.99
+Human Ether-a-go-go-Related Gene inhibition,-,0.7341
+Micronuclear,-,0.94
+Hepatotoxicity,+,0.8375
+skin sensitisation,-,0.5537
+Respiratory toxicity,-,0.9111
+Reproductive toxicity,-,0.7549
+Mitochondrial toxicity,-,0.9875
+Nephrotoxicity,+,0.5247
+Acute Oral Toxicity (c),III,0.7974
+Estrogen receptor binding,-,0.9712
+Androgen receptor binding,-,0.9507
+Thyroid receptor binding,-,0.9313
+Glucocorticoid receptor binding,-,0.9236
+Aromatase binding,-,0.8197
+PPAR gamma,-,0.9095
+Honey bee toxicity,-,0.9293
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,-,0.61
+Fish aquatic toxicity,-,0.6523
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.537,logS
+Plasma protein binding,0.107,100%
+Acute Oral Toxicity,1.78,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.086,pIGC50 (ug/L)
+  
+CCOC(=O)OCC,Effect,Probability
+Human Intestinal Absorption,+,0.9948
+Caco-2,+,0.7877
+Blood Brain Barrier,+,0.875
+Human oral bioavailability,+,0.5857
+Subcellular localzation,Mitochondria,0.8266
+OATP2B1 inhibitior,-,0.837
+OATP1B1 inhibitior,+,0.9615
+OATP1B3 inhibitior,+,0.9567
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.8962
+P-glycoprotein inhibitior,-,0.9873
+P-glycoprotein substrate,-,0.9975
+CYP3A4 substrate,-,0.7033
+CYP2C9 substrate,-,0.8046
+CYP2D6 substrate,-,0.7646
+CYP3A4 inhibition,-,0.9718
+CYP2C9 inhibition,-,0.921
+CYP2C19 inhibition,-,0.9101
+CYP2D6 inhibition,-,0.947
+CYP1A2 inhibition,-,0.8183
+CYP2C8 inhibition,-,0.9872
+CYP inhibitory promiscuity,-,0.8229
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5077
+Carcinogenicity (trinary),Non-required,0.6562
+Eye corrosion,+,0.9635
+Eye irritation,+,1
+Skin irritation,+,0.7421
+Skin corrosion,-,0.8459
+Ames mutagenesis,-,0.98
+Human Ether-a-go-go-Related Gene inhibition,-,0.839
+Micronuclear,-,0.92
+Hepatotoxicity,+,0.6009
+skin sensitisation,-,0.9393
+Respiratory toxicity,-,0.9444
+Reproductive toxicity,-,0.6222
+Mitochondrial toxicity,-,0.9875
+Nephrotoxicity,+,0.6515
+Acute Oral Toxicity (c),IV,0.5495
+Estrogen receptor binding,-,0.9209
+Androgen receptor binding,-,0.9471
+Thyroid receptor binding,-,0.8853
+Glucocorticoid receptor binding,-,0.9129
+Aromatase binding,-,0.8666
+PPAR gamma,-,0.9242
+Honey bee toxicity,-,0.9601
+Biodegradation,+,0.8
+Crustacea aquatic toxicity,-,0.8089
+Fish aquatic toxicity,+,0.8486
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.97,logS
+Plasma protein binding,0.09,100%
+Acute Oral Toxicity,1.177,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.781,pIGC50 (ug/L)
+  
+CC1COC(=O)O1,Effect,Probability
+Human Intestinal Absorption,+,0.9928
+Caco-2,+,0.5553
+Blood Brain Barrier,+,0.8
+Human oral bioavailability,+,0.6857
+Subcellular localzation,Mitochondria,0.7888
+OATP2B1 inhibitior,-,0.8589
+OATP1B1 inhibitior,+,0.9643
+OATP1B3 inhibitior,+,0.9497
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.85
+BSEP inhibitior,-,0.934
+P-glycoprotein inhibitior,-,0.9833
+P-glycoprotein substrate,-,0.9614
+CYP3A4 substrate,-,0.706
+CYP2C9 substrate,-,0.756
+CYP2D6 substrate,-,0.7912
+CYP3A4 inhibition,-,0.9843
+CYP2C9 inhibition,-,0.9228
+CYP2C19 inhibition,-,0.8406
+CYP2D6 inhibition,-,0.9378
+CYP1A2 inhibition,-,0.6869
+CYP2C8 inhibition,-,0.9967
+CYP inhibitory promiscuity,-,0.9283
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.8917
+Carcinogenicity (trinary),Non-required,0.5084
+Eye corrosion,+,0.491
+Eye irritation,+,0.9916
+Skin irritation,-,0.8721
+Skin corrosion,-,0.9639
+Ames mutagenesis,+,0.6
+Human Ether-a-go-go-Related Gene inhibition,-,0.8316
+Micronuclear,-,0.67
+Hepatotoxicity,+,0.675
+skin sensitisation,-,0.7542
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.6667
+Mitochondrial toxicity,-,0.85
+Nephrotoxicity,+,0.6223
+Acute Oral Toxicity (c),IV,0.6199
+Estrogen receptor binding,-,0.8985
+Androgen receptor binding,-,0.8291
+Thyroid receptor binding,-,0.9224
+Glucocorticoid receptor binding,-,0.9293
+Aromatase binding,-,0.8372
+PPAR gamma,-,0.9132
+Honey bee toxicity,-,0.854
+Biodegradation,+,0.9
+Crustacea aquatic toxicity,+,0.58
+Fish aquatic toxicity,-,0.6961
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.39,logS
+Plasma protein binding,0.08,100%
+Acute Oral Toxicity,0.348,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.488,pIGC50 (ug/L)
+  
+CC(=C)C(=O)OC,Effect,Probability
+Human Intestinal Absorption,+,0.9938
+Caco-2,+,0.637
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.5857
+Subcellular localzation,Mitochondria,0.6246
+OATP2B1 inhibitior,-,0.8737
+OATP1B1 inhibitior,+,0.976
+OATP1B3 inhibitior,+,0.9563
+MATE1 inhibitior,-,0.86
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9465
+P-glycoprotein inhibitior,-,0.9799
+P-glycoprotein substrate,-,0.9795
+CYP3A4 substrate,-,0.6509
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.868
+CYP3A4 inhibition,-,0.9308
+CYP2C9 inhibition,-,0.941
+CYP2C19 inhibition,-,0.8858
+CYP2D6 inhibition,-,0.9574
+CYP1A2 inhibition,-,0.9044
+CYP2C8 inhibition,-,0.9842
+CYP inhibitory promiscuity,-,0.843
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.6947
+Carcinogenicity (trinary),Non-required,0.7112
+Eye corrosion,+,0.9514
+Eye irritation,+,0.9839
+Skin irritation,+,0.6985
+Skin corrosion,-,0.9563
+Ames mutagenesis,-,0.94
+Human Ether-a-go-go-Related Gene inhibition,-,0.7496
+Micronuclear,-,0.96
+Hepatotoxicity,+,0.6034
+skin sensitisation,+,0.9371
+Respiratory toxicity,+,0.7333
+Reproductive toxicity,-,0.9889
+Mitochondrial toxicity,+,0.675
+Nephrotoxicity,+,0.8623
+Acute Oral Toxicity (c),IV,0.6239
+Estrogen receptor binding,-,0.918
+Androgen receptor binding,-,0.9684
+Thyroid receptor binding,-,0.8726
+Glucocorticoid receptor binding,-,0.9239
+Aromatase binding,-,0.7997
+PPAR gamma,-,0.9374
+Honey bee toxicity,-,0.7266
+Biodegradation,+,0.9
+Crustacea aquatic toxicity,-,0.79
+Fish aquatic toxicity,+,0.8484
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.737,logS
+Plasma protein binding,0.513,100%
+Acute Oral Toxicity,1.633,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.092,pIGC50 (ug/L)
+  
+CCCCOC(=O)C=C,Effect,Probability
+Human Intestinal Absorption,+,0.9968
+Caco-2,+,0.9272
+Blood Brain Barrier,+,0.925
+Human oral bioavailability,-,0.6429
+Subcellular localzation,Plasma membrane,0.494
+OATP2B1 inhibitior,-,0.8502
+OATP1B1 inhibitior,+,0.9233
+OATP1B3 inhibitior,+,0.9229
+MATE1 inhibitior,-,0.74
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9357
+P-glycoprotein inhibitior,-,0.9884
+P-glycoprotein substrate,-,0.9745
+CYP3A4 substrate,-,0.5926
+CYP2C9 substrate,+,0.6063
+CYP2D6 substrate,-,0.8854
+CYP3A4 inhibition,-,0.9159
+CYP2C9 inhibition,-,0.9126
+CYP2C19 inhibition,-,0.7751
+CYP2D6 inhibition,-,0.9434
+CYP1A2 inhibition,+,0.6392
+CYP2C8 inhibition,-,0.8969
+CYP inhibitory promiscuity,-,0.8344
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.58
+Carcinogenicity (trinary),Non-required,0.5283
+Eye corrosion,+,0.9866
+Eye irritation,+,0.9884
+Skin irritation,+,0.9226
+Skin corrosion,-,0.7871
+Ames mutagenesis,-,0.99
+Human Ether-a-go-go-Related Gene inhibition,-,0.7344
+Micronuclear,-,0.98
+Hepatotoxicity,+,0.5625
+skin sensitisation,+,0.9332
+Respiratory toxicity,-,0.9444
+Reproductive toxicity,-,1
+Mitochondrial toxicity,-,0.9875
+Nephrotoxicity,+,0.6965
+Acute Oral Toxicity (c),III,0.7892
+Estrogen receptor binding,-,0.8679
+Androgen receptor binding,+,0.5594
+Thyroid receptor binding,-,0.8662
+Glucocorticoid receptor binding,-,0.758
+Aromatase binding,-,0.8828
+PPAR gamma,-,0.8545
+Honey bee toxicity,-,0.9767
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,-,0.56
+Fish aquatic toxicity,+,0.9238
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.824,logS
+Plasma protein binding,0.463,100%
+Acute Oral Toxicity,1.804,log(1/(mol/kg))
+Tetrahymena pyriformis,0.574,pIGC50 (ug/L)
+  
+C(COCCOCCO)O  
+Human Intestinal Absorption,+,0.679
+Caco-2,+,0.7566
+Blood Brain Barrier,-,0.525
+Human oral bioavailability,+,0.6143
+Subcellular localzation,Mitochondria,0.675
+OATP2B1 inhibitior,-,0.8586
+OATP1B1 inhibitior,+,0.8943
+OATP1B3 inhibitior,+,0.941
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.825
+BSEP inhibitior,-,0.9199
+P-glycoprotein inhibitior,-,0.9788
+P-glycoprotein substrate,-,0.9912
+CYP3A4 substrate,-,0.7538
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.7539
+CYP3A4 inhibition,-,0.9509
+CYP2C9 inhibition,-,0.9171
+CYP2C19 inhibition,-,0.9138
+CYP2D6 inhibition,-,0.9671
+CYP1A2 inhibition,-,0.9373
+CYP2C8 inhibition,-,0.9884
+CYP inhibitory promiscuity,-,0.9547
+UGT catelyzed,-,0.6
+Carcinogenicity (binary),-,0.74
+Carcinogenicity (trinary),Non-required,0.7098
+Eye corrosion,+,0.7399
+Eye irritation,+,0.9786
+Skin irritation,-,0.7267
+Skin corrosion,-,0.9858
+Ames mutagenesis,-,0.8962
+Human Ether-a-go-go-Related Gene inhibition,-,0.6262
+Micronuclear,-,1
+Hepatotoxicity,+,0.5303
+skin sensitisation,-,0.5751
+Respiratory toxicity,+,0.7111
+Reproductive toxicity,-,0.9778
+Mitochondrial toxicity,+,0.7375
+Nephrotoxicity,+,0.706
+Acute Oral Toxicity (c),IV,0.6404
+Estrogen receptor binding,-,0.8949
+Androgen receptor binding,-,0.9342
+Thyroid receptor binding,-,0.8624
+Glucocorticoid receptor binding,-,0.8661
+Aromatase binding,-,0.8314
+PPAR gamma,-,0.8658
+Honey bee toxicity,-,0.8775
+Biodegradation,+,0.875
+Crustacea aquatic toxicity,-,0.98
+Fish aquatic toxicity,-,0.9093
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.19,logS
+Plasma protein binding,0.713,100%
+Acute Oral Toxicity,0.876,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.257,pIGC50 (ug/L)
+  
+C1COCCO1,Effect,Probability
+Human Intestinal Absorption,+,0.9754
+Caco-2,+,0.8186
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.8429
+Subcellular localzation,Mitochondria,0.5943
+OATP2B1 inhibitior,-,0.8632
+OATP1B1 inhibitior,+,0.9838
+OATP1B3 inhibitior,+,0.9518
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.825
+BSEP inhibitior,-,0.9619
+P-glycoprotein inhibitior,-,0.9879
+P-glycoprotein substrate,-,0.9971
+CYP3A4 substrate,-,0.8344
+CYP2C9 substrate,-,0.8019
+CYP2D6 substrate,-,0.7619
+CYP3A4 inhibition,-,0.982
+CYP2C9 inhibition,-,0.8987
+CYP2C19 inhibition,-,0.8661
+CYP2D6 inhibition,-,0.9587
+CYP1A2 inhibition,-,0.8674
+CYP2C8 inhibition,-,0.9922
+CYP inhibitory promiscuity,-,0.9459
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.84
+Carcinogenicity (trinary),Warning,0.5245
+Eye corrosion,+,0.9313
+Eye irritation,+,0.9953
+Skin irritation,+,0.8301
+Skin corrosion,-,0.7928
+Ames mutagenesis,-,1
+Human Ether-a-go-go-Related Gene inhibition,-,0.7263
+Micronuclear,-,0.97
+Hepatotoxicity,+,0.9625
+skin sensitisation,-,0.7783
+Respiratory toxicity,-,0.9556
+Reproductive toxicity,-,0.9667
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.7388
+Acute Oral Toxicity (c),III,0.8787
+Estrogen receptor binding,-,0.9268
+Androgen receptor binding,-,0.9574
+Thyroid receptor binding,-,0.8937
+Glucocorticoid receptor binding,-,0.8333
+Aromatase binding,-,0.8458
+PPAR gamma,-,0.9233
+Honey bee toxicity,-,0.8428
+Biodegradation,+,0.725
+Crustacea aquatic toxicity,-,0.79
+Fish aquatic toxicity,-,0.9327
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.352,logS
+Plasma protein binding,0.653,100%
+Acute Oral Toxicity,2.353,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.502,pIGC50 (ug/L)
+  
+CC(C)OC(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9928
+Caco-2,-,0.547
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.7857
+Subcellular localzation,Mitochondria,0.6048
+OATP2B1 inhibitior,-,0.8678
+OATP1B1 inhibitior,+,0.9687
+OATP1B3 inhibitior,+,0.9687
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,1
+BSEP inhibitior,-,0.9549
+P-glycoprotein inhibitior,-,0.9753
+P-glycoprotein substrate,-,0.988
+CYP3A4 substrate,-,0.7945
+CYP2C9 substrate,-,0.806
+CYP2D6 substrate,-,0.7521
+CYP3A4 inhibition,-,0.9812
+CYP2C9 inhibition,-,0.9458
+CYP2C19 inhibition,-,0.9178
+CYP2D6 inhibition,-,0.9566
+CYP1A2 inhibition,-,0.8662
+CYP2C8 inhibition,-,0.9946
+CYP inhibitory promiscuity,-,0.835
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.6483
+Carcinogenicity (trinary),Warning,0.4812
+Eye corrosion,+,0.9699
+Eye irritation,+,0.985
+Skin irritation,+,0.5357
+Skin corrosion,-,0.9781
+Ames mutagenesis,-,0.74
+Human Ether-a-go-go-Related Gene inhibition,-,0.8277
+Micronuclear,-,0.99
+Hepatotoxicity,+,0.6802
+skin sensitisation,-,0.895
+Respiratory toxicity,-,0.9
+Reproductive toxicity,-,0.9889
+Mitochondrial toxicity,-,0.9655
+Nephrotoxicity,+,0.6852
+Acute Oral Toxicity (c),IV,0.6481
+Estrogen receptor binding,-,0.9158
+Androgen receptor binding,-,0.9393
+Thyroid receptor binding,-,0.8425
+Glucocorticoid receptor binding,-,0.9317
+Aromatase binding,-,0.7841
+PPAR gamma,-,0.8545
+Honey bee toxicity,-,0.6882
+Biodegradation,-,0.925
+Crustacea aquatic toxicity,-,0.71
+Fish aquatic toxicity,-,0.7238
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.869,logS
+Plasma protein binding,0.69,100%
+Acute Oral Toxicity,1.197,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.407,pIGC50 (ug/L)
+  
+CCOC(=O)C1=CC=CC=C1,Effect,Probability
+Human Intestinal Absorption,+,1
+Caco-2,+,0.9115
+Blood Brain Barrier,+,0.9
+Human oral bioavailability,+,0.7429
+Subcellular localzation,Mitochondria,0.7797
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.9572
+OATP1B3 inhibitior,+,0.9674
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.8658
+P-glycoprotein inhibitior,-,0.9909
+P-glycoprotein substrate,-,0.9915
+CYP3A4 substrate,-,0.7168
+CYP2C9 substrate,-,0.7945
+CYP2D6 substrate,-,0.8429
+CYP3A4 inhibition,-,0.9817
+CYP2C9 inhibition,-,0.886
+CYP2C19 inhibition,-,0.8897
+CYP2D6 inhibition,-,0.9525
+CYP1A2 inhibition,+,0.7888
+CYP2C8 inhibition,-,0.7175
+CYP inhibitory promiscuity,-,0.7227
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.5239
+Carcinogenicity (trinary),Non-required,0.6038
+Eye corrosion,+,0.8185
+Eye irritation,+,1
+Skin irritation,+,0.8823
+Skin corrosion,-,0.8782
+Ames mutagenesis,-,0.99
+Human Ether-a-go-go-Related Gene inhibition,-,0.8512
+Micronuclear,-,0.94
+Hepatotoxicity,+,0.5285
+skin sensitisation,+,0.7518
+Respiratory toxicity,-,0.8778
+Reproductive toxicity,-,0.7889
+Mitochondrial toxicity,-,0.975
+Nephrotoxicity,-,0.5908
+Acute Oral Toxicity (c),III,0.9356
+Estrogen receptor binding,-,0.7528
+Androgen receptor binding,-,0.8428
+Thyroid receptor binding,-,0.914
+Glucocorticoid receptor binding,-,0.9731
+Aromatase binding,-,0.804
+PPAR gamma,-,0.9176
+Honey bee toxicity,-,0.9884
+Biodegradation,+,0.8
+Crustacea aquatic toxicity,-,0.7055
+Fish aquatic toxicity,+,0.9145
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.383,logS
+Plasma protein binding,0.462,100%
+Acute Oral Toxicity,1.649,log(1/(mol/kg))
+Tetrahymena pyriformis,0.624,pIGC50 (ug/L)
+  
+CCCCCCN,Effect,Probability
+Human Intestinal Absorption,+,0.9888
+Caco-2,+,0.9297
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.5571
+Subcellular localzation,Lysosomes,0.9614
+OATP2B1 inhibitior,-,0.8533
+OATP1B1 inhibitior,+,0.9631
+OATP1B3 inhibitior,+,0.9381
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.525
+BSEP inhibitior,-,0.9629
+P-glycoprotein inhibitior,-,0.9876
+P-glycoprotein substrate,-,0.8612
+CYP3A4 substrate,-,0.7806
+CYP2C9 substrate,-,1
+CYP2D6 substrate,+,0.5
+CYP3A4 inhibition,-,0.9234
+CYP2C9 inhibition,-,0.9267
+CYP2C19 inhibition,-,0.8809
+CYP2D6 inhibition,-,0.6964
+CYP1A2 inhibition,+,0.5959
+CYP2C8 inhibition,-,0.9498
+CYP inhibitory promiscuity,-,0.8505
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.62
+Carcinogenicity (trinary),Non-required,0.7297
+Eye corrosion,+,0.9945
+Eye irritation,+,0.9071
+Skin irritation,+,0.8894
+Skin corrosion,+,0.9802
+Ames mutagenesis,-,0.92
+Human Ether-a-go-go-Related Gene inhibition,-,0.7278
+Micronuclear,-,0.99
+Hepatotoxicity,-,0.6092
+skin sensitisation,+,0.7656
+Respiratory toxicity,+,1
+Reproductive toxicity,-,1
+Mitochondrial toxicity,+,1
+Nephrotoxicity,+,0.5909
+Acute Oral Toxicity (c),III,0.837
+Estrogen receptor binding,-,0.9368
+Androgen receptor binding,-,0.7871
+Thyroid receptor binding,-,0.8509
+Glucocorticoid receptor binding,-,0.8576
+Aromatase binding,-,0.9131
+PPAR gamma,-,0.8789
+Honey bee toxicity,-,0.9928
+Biodegradation,+,0.8
+Crustacea aquatic toxicity,+,0.97
+Fish aquatic toxicity,+,0.8193
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.913,logS
+Plasma protein binding,0.575,100%
+Acute Oral Toxicity,2.449,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.211,pIGC50 (ug/L)
+  
+COC(=O)OC,Effect,Probability
+Human Intestinal Absorption,+,0.9917
+Caco-2,+,0.5322
+Blood Brain Barrier,+,0.875
+Human oral bioavailability,+,0.6857
+Subcellular localzation,Mitochondria,0.8276
+OATP2B1 inhibitior,-,0.8693
+OATP1B1 inhibitior,+,0.9726
+OATP1B3 inhibitior,+,0.9619
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9396
+P-glycoprotein inhibitior,-,0.9851
+P-glycoprotein substrate,-,0.9918
+CYP3A4 substrate,-,0.755
+CYP2C9 substrate,-,0.8046
+CYP2D6 substrate,-,0.7358
+CYP3A4 inhibition,-,0.9824
+CYP2C9 inhibition,-,0.9497
+CYP2C19 inhibition,-,0.9427
+CYP2D6 inhibition,-,0.9687
+CYP1A2 inhibition,-,0.883
+CYP2C8 inhibition,-,0.998
+CYP inhibitory promiscuity,-,0.9341
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5724
+Carcinogenicity (trinary),Non-required,0.68
+Eye corrosion,+,0.9565
+Eye irritation,+,0.9929
+Skin irritation,+,0.8381
+Skin corrosion,-,0.6884
+Ames mutagenesis,-,0.84
+Human Ether-a-go-go-Related Gene inhibition,-,0.7833
+Micronuclear,-,0.86
+Hepatotoxicity,-,0.5091
+skin sensitisation,-,0.5514
+Respiratory toxicity,-,0.9
+Reproductive toxicity,-,0.6243
+Mitochondrial toxicity,-,0.925
+Nephrotoxicity,+,0.7005
+Acute Oral Toxicity (c),IV,0.6291
+Estrogen receptor binding,-,0.9198
+Androgen receptor binding,-,0.9175
+Thyroid receptor binding,-,0.8904
+Glucocorticoid receptor binding,-,0.8982
+Aromatase binding,-,0.8514
+PPAR gamma,-,0.9224
+Honey bee toxicity,-,0.8457
+Biodegradation,+,0.675
+Crustacea aquatic toxicity,-,0.89
+Fish aquatic toxicity,-,0.4465
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.179,logS
+Plasma protein binding,0.315,100%
+Acute Oral Toxicity,1.01,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.378,pIGC50 (ug/L)
+  
+CCCCOC(=O)C,Effect,Probability
+Human Intestinal Absorption,+,0.9965
+Caco-2,+,0.874
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,-,0.5857
+Subcellular localzation,Mitochondria,0.6303
+OATP2B1 inhibitior,-,0.8409
+OATP1B1 inhibitior,+,0.943
+OATP1B3 inhibitior,+,0.9246
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9288
+P-glycoprotein inhibitior,-,0.9871
+P-glycoprotein substrate,-,0.9741
+CYP3A4 substrate,-,0.6392
+CYP2C9 substrate,-,0.7977
+CYP2D6 substrate,-,0.8679
+CYP3A4 inhibition,-,0.9688
+CYP2C9 inhibition,-,0.9411
+CYP2C19 inhibition,-,0.9213
+CYP2D6 inhibition,-,0.9408
+CYP1A2 inhibition,+,0.5111
+CYP2C8 inhibition,-,0.9602
+CYP inhibitory promiscuity,-,0.8855
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.6
+Carcinogenicity (trinary),Non-required,0.6127
+Eye corrosion,+,0.9901
+Eye irritation,+,0.9931
+Skin irritation,+,0.7942
+Skin corrosion,-,0.89
+Ames mutagenesis,-,0.98
+Human Ether-a-go-go-Related Gene inhibition,-,0.7401
+Micronuclear,-,1
+Hepatotoxicity,+,0.6
+skin sensitisation,+,0.6907
+Respiratory toxicity,-,1
+Reproductive toxicity,-,0.9778
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.8073
+Acute Oral Toxicity (c),III,0.5153
+Estrogen receptor binding,-,0.9364
+Androgen receptor binding,-,0.7855
+Thyroid receptor binding,-,0.9087
+Glucocorticoid receptor binding,-,0.9392
+Aromatase binding,-,0.9195
+PPAR gamma,-,0.9336
+Honey bee toxicity,-,0.9902
+Biodegradation,+,1
+Crustacea aquatic toxicity,-,0.52
+Fish aquatic toxicity,+,0.7179
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.085,logS
+Plasma protein binding,0.236,100%
+Acute Oral Toxicity,1.405,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.572,pIGC50 (ug/L)
+  
+CC1=CC(=O)CC(C1)(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9951
+Caco-2,+,0.955
+Blood Brain Barrier,+,0.725
+Human oral bioavailability,+,0.8429
+Subcellular localzation,Mitochondria,0.5982
+OATP2B1 inhibitior,-,0.8628
+OATP1B1 inhibitior,+,0.956
+OATP1B3 inhibitior,+,0.9506
+MATE1 inhibitior,-,0.9
+OCT2 inhibitior,-,0.85
+BSEP inhibitior,-,0.8513
+P-glycoprotein inhibitior,-,0.9827
+P-glycoprotein substrate,-,0.9791
+CYP3A4 substrate,-,0.5908
+CYP2C9 substrate,-,0.8078
+CYP2D6 substrate,-,0.8705
+CYP3A4 inhibition,-,0.8979
+CYP2C9 inhibition,-,0.8195
+CYP2C19 inhibition,-,0.7521
+CYP2D6 inhibition,-,0.9439
+CYP1A2 inhibition,-,0.876
+CYP2C8 inhibition,-,0.9881
+CYP inhibitory promiscuity,-,0.8593
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.6336
+Carcinogenicity (trinary),Warning,0.5339
+Eye corrosion,-,0.6292
+Eye irritation,+,0.9717
+Skin irritation,+,0.6706
+Skin corrosion,-,0.9562
+Ames mutagenesis,-,0.86
+Human Ether-a-go-go-Related Gene inhibition,-,0.7635
+Micronuclear,-,0.97
+Hepatotoxicity,+,0.6212
+skin sensitisation,+,0.9559
+Respiratory toxicity,-,0.7667
+Reproductive toxicity,-,0.6667
+Mitochondrial toxicity,-,0.9875
+Nephrotoxicity,+,0.7839
+Acute Oral Toxicity (c),III,0.8109
+Estrogen receptor binding,-,0.9833
+Androgen receptor binding,-,0.8233
+Thyroid receptor binding,-,0.909
+Glucocorticoid receptor binding,-,0.8943
+Aromatase binding,-,0.9255
+PPAR gamma,-,0.9056
+Honey bee toxicity,-,0.9575
+Biodegradation,+,0.6
+Crustacea aquatic toxicity,+,0.51
+Fish aquatic toxicity,+,0.8808
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.515,logS
+Plasma protein binding,0.086,100%
+Acute Oral Toxicity,1.864,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.51,pIGC50 (ug/L)
+  
+COS(=O)(=O)C  
+Human Intestinal Absorption,+,0.9076
+Caco-2,-,0.5742
+Blood Brain Barrier,+,0.85
+Human oral bioavailability,+,0.8857
+Subcellular localzation,Mitochondria,0.5268
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.969
+OATP1B3 inhibitior,+,0.948
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,1
+BSEP inhibitior,-,0.941
+P-glycoprotein inhibitior,-,0.9847
+P-glycoprotein substrate,-,0.995
+CYP3A4 substrate,-,0.7081
+CYP2C9 substrate,-,0.8426
+CYP2D6 substrate,-,0.8039
+CYP3A4 inhibition,-,0.9887
+CYP2C9 inhibition,-,0.8351
+CYP2C19 inhibition,-,0.7607
+CYP2D6 inhibition,-,0.9289
+CYP1A2 inhibition,-,0.7946
+CYP2C8 inhibition,-,0.9941
+CYP inhibitory promiscuity,-,0.9328
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.8596
+Carcinogenicity (trinary),Non-required,0.6287
+Eye corrosion,+,0.9784
+Eye irritation,+,0.9357
+Skin irritation,+,0.868
+Skin corrosion,+,0.9639
+Ames mutagenesis,+,0.6446
+Human Ether-a-go-go-Related Gene inhibition,-,0.7072
+Micronuclear,+,0.82
+Hepatotoxicity,+,0.5733
+skin sensitisation,+,0.9333
+Respiratory toxicity,-,0.9
+Reproductive toxicity,-,0.6556
+Mitochondrial toxicity,-,0.7375
+Nephrotoxicity,+,0.8329
+Acute Oral Toxicity (c),II,0.7586
+Estrogen receptor binding,-,0.9034
+Androgen receptor binding,-,0.9153
+Thyroid receptor binding,-,0.8639
+Glucocorticoid receptor binding,-,0.9366
+Aromatase binding,-,0.8526
+PPAR gamma,-,0.9317
+Honey bee toxicity,-,0.5414
+Biodegradation,+,0.775
+Crustacea aquatic toxicity,-,0.72
+Fish aquatic toxicity,+,0.7356
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.231,logS
+Plasma protein binding,0.071,100%
+Acute Oral Toxicity,2.506,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.289,pIGC50 (ug/L)
+  
+CCN1CCCC1=O  
+Human Intestinal Absorption,+,0.9893
+Caco-2,+,0.9455
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.7857
+Subcellular localzation,Lysosomes,0.6053
+OATP2B1 inhibitior,-,0.8476
+OATP1B1 inhibitior,+,0.9739
+OATP1B3 inhibitior,+,0.9458
+MATE1 inhibitior,-,1
+OCT2 inhibitior,+,0.55
+BSEP inhibitior,-,0.9192
+P-glycoprotein inhibitior,-,0.9915
+P-glycoprotein substrate,-,0.9642
+CYP3A4 substrate,-,0.7155
+CYP2C9 substrate,-,0.8117
+CYP2D6 substrate,-,0.8612
+CYP3A4 inhibition,-,0.9614
+CYP2C9 inhibition,-,0.5801
+CYP2C19 inhibition,+,0.5616
+CYP2D6 inhibition,-,0.5739
+CYP1A2 inhibition,-,0.7379
+CYP2C8 inhibition,-,0.9974
+CYP inhibitory promiscuity,-,0.899
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.87
+Carcinogenicity (trinary),Non-required,0.6132
+Eye corrosion,-,0.7975
+Eye irritation,+,0.9807
+Skin irritation,-,0.6903
+Skin corrosion,-,0.7365
+Ames mutagenesis,-,0.8
+Human Ether-a-go-go-Related Gene inhibition,-,0.757
+Micronuclear,-,0.93
+Hepatotoxicity,+,0.7981
+skin sensitisation,-,0.9436
+Respiratory toxicity,-,0.6333
+Reproductive toxicity,+,0.7222
+Mitochondrial toxicity,-,0.6125
+Nephrotoxicity,-,0.6057
+Acute Oral Toxicity (c),III,0.79
+Estrogen receptor binding,-,0.9728
+Androgen receptor binding,-,0.9016
+Thyroid receptor binding,-,0.9371
+Glucocorticoid receptor binding,-,0.9111
+Aromatase binding,-,0.8707
+PPAR gamma,-,0.9234
+Honey bee toxicity,-,0.9842
+Biodegradation,+,0.675
+Crustacea aquatic toxicity,-,0.59
+Fish aquatic toxicity,-,0.7663
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.78,logS
+Plasma protein binding,-0.033,100%
+Acute Oral Toxicity,1.463,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.421,pIGC50 (ug/L)
+  
+C(CCl)Cl,Effect,Probability
+Human Intestinal Absorption,+,0.975
+Caco-2,+,0.6468
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.9
+Subcellular localzation,Mitochondria,0.4687
+OATP2B1 inhibitior,-,0.8723
+OATP1B1 inhibitior,+,0.9739
+OATP1B3 inhibitior,+,0.9544
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.95
+BSEP inhibitior,-,0.9402
+P-glycoprotein inhibitior,-,0.9843
+P-glycoprotein substrate,-,0.9953
+CYP3A4 substrate,-,0.7806
+CYP2C9 substrate,-,0.512
+CYP2D6 substrate,-,0.7632
+CYP3A4 inhibition,-,0.9739
+CYP2C9 inhibition,-,0.8725
+CYP2C19 inhibition,-,0.8067
+CYP2D6 inhibition,-,0.9541
+CYP1A2 inhibition,-,0.7103
+CYP2C8 inhibition,-,0.9908
+CYP inhibitory promiscuity,-,0.8115
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.57
+Carcinogenicity (trinary),Danger,0.5411
+Eye corrosion,+,1
+Eye irritation,+,0.9834
+Skin irritation,+,0.9076
+Skin corrosion,-,0.7112
+Ames mutagenesis,+,0.85
+Human Ether-a-go-go-Related Gene inhibition,-,0.742
+Micronuclear,-,1
+Hepatotoxicity,+,0.9625
+skin sensitisation,-,0.8596
+Respiratory toxicity,-,0.7778
+Reproductive toxicity,-,0.5444
+Mitochondrial toxicity,-,0.6625
+Nephrotoxicity,+,0.7701
+Acute Oral Toxicity (c),III,0.7089
+Estrogen receptor binding,-,0.8194
+Androgen receptor binding,-,0.9351
+Thyroid receptor binding,-,0.8359
+Glucocorticoid receptor binding,-,0.9118
+Aromatase binding,-,0.8852
+PPAR gamma,-,0.8283
+Honey bee toxicity,-,0.71
+Biodegradation,-,0.925
+Crustacea aquatic toxicity,-,0.87
+Fish aquatic toxicity,-,0.6865
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.558,logS
+Plasma protein binding,0.757,100%
+Acute Oral Toxicity,2.209,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.614,pIGC50 (ug/L)
+  
+CC(C)(C)O,Effect,Probability
+Human Intestinal Absorption,+,0.9825
+Caco-2,+,0.5947
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.5714
+Subcellular localzation,Mitochondria,0.5311
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.9731
+OATP1B3 inhibitior,+,0.9657
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.95
+BSEP inhibitior,-,0.9401
+P-glycoprotein inhibitior,-,0.9843
+P-glycoprotein substrate,-,0.9946
+CYP3A4 substrate,-,0.8063
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.7954
+CYP3A4 inhibition,-,0.9391
+CYP2C9 inhibition,-,0.9071
+CYP2C19 inhibition,-,0.9231
+CYP2D6 inhibition,-,0.9568
+CYP1A2 inhibition,-,0.9045
+CYP2C8 inhibition,-,0.9959
+CYP inhibitory promiscuity,-,0.9253
+UGT catelyzed,+,0.9
+Carcinogenicity (binary),+,0.6083
+Carcinogenicity (trinary),Non-required,0.5809
+Eye corrosion,+,0.9809
+Eye irritation,+,0.9839
+Skin irritation,+,0.9043
+Skin corrosion,+,0.6369
+Ames mutagenesis,-,0.97
+Human Ether-a-go-go-Related Gene inhibition,-,0.7618
+Micronuclear,-,0.96
+Hepatotoxicity,+,0.8177
+skin sensitisation,-,0.9321
+Respiratory toxicity,-,0.9333
+Reproductive toxicity,-,0.9889
+Mitochondrial toxicity,-,0.9577
+Nephrotoxicity,+,0.6517
+Acute Oral Toxicity (c),III,0.8522
+Estrogen receptor binding,-,0.9161
+Androgen receptor binding,-,0.9514
+Thyroid receptor binding,-,0.8504
+Glucocorticoid receptor binding,-,0.9107
+Aromatase binding,-,0.9343
+PPAR gamma,-,0.9054
+Honey bee toxicity,-,0.9618
+Biodegradation,-,0.625
+Crustacea aquatic toxicity,-,0.56
+Fish aquatic toxicity,-,0.8223
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.558,logS
+Plasma protein binding,0.687,100%
+Acute Oral Toxicity,1.226,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.755,pIGC50 (ug/L)
+  
+C1COCO1,Effect,Probability
+Human Intestinal Absorption,+,0.9777
+Caco-2,+,0.784
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.7286
+Subcellular localzation,Mitochondria,0.4956
+OATP2B1 inhibitior,-,0.8702
+OATP1B1 inhibitior,+,0.9827
+OATP1B3 inhibitior,+,0.949
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.85
+BSEP inhibitior,-,0.9518
+P-glycoprotein inhibitior,-,0.987
+P-glycoprotein substrate,-,0.9961
+CYP3A4 substrate,-,0.8034
+CYP2C9 substrate,-,0.8046
+CYP2D6 substrate,-,0.805
+CYP3A4 inhibition,-,0.943
+CYP2C9 inhibition,-,0.8406
+CYP2C19 inhibition,-,0.7797
+CYP2D6 inhibition,-,0.8661
+CYP1A2 inhibition,-,0.743
+CYP2C8 inhibition,-,0.9916
+CYP inhibitory promiscuity,-,0.8763
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.86
+Carcinogenicity (trinary),Warning,0.4799
+Eye corrosion,+,0.8882
+Eye irritation,+,0.994
+Skin irritation,+,0.697
+Skin corrosion,-,0.5994
+Ames mutagenesis,-,0.95
+Human Ether-a-go-go-Related Gene inhibition,-,0.7841
+Micronuclear,-,0.98
+Hepatotoxicity,+,0.8875
+skin sensitisation,-,0.9436
+Respiratory toxicity,-,0.9333
+Reproductive toxicity,+,0.7444
+Mitochondrial toxicity,-,0.9625
+Nephrotoxicity,+,0.7926
+Acute Oral Toxicity (c),III,0.7968
+Estrogen receptor binding,-,0.9145
+Androgen receptor binding,-,0.9471
+Thyroid receptor binding,-,0.8618
+Glucocorticoid receptor binding,-,0.876
+Aromatase binding,-,0.8825
+PPAR gamma,-,0.8909
+Honey bee toxicity,-,0.796
+Biodegradation,+,0.775
+Crustacea aquatic toxicity,-,0.88
+Fish aquatic toxicity,-,0.9137
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,0.128,logS
+Plasma protein binding,0.262,100%
+Acute Oral Toxicity,1.45,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.951,pIGC50 (ug/L)
+  
+C(=C(Cl)Cl)Cl,Effect,Probability
+Human Intestinal Absorption,+,0.991
+Caco-2,+,0.7881
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.6714
+Subcellular localzation,Lysosomes,0.4668
+OATP2B1 inhibitior,-,0.8733
+OATP1B1 inhibitior,+,0.9646
+OATP1B3 inhibitior,+,0.9555
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,1
+BSEP inhibitior,-,0.9205
+P-glycoprotein inhibitior,-,0.9868
+P-glycoprotein substrate,-,0.9969
+CYP3A4 substrate,-,0.7879
+CYP2C9 substrate,-,0.7594
+CYP2D6 substrate,-,0.7902
+CYP3A4 inhibition,-,0.8826
+CYP2C9 inhibition,-,0.8139
+CYP2C19 inhibition,-,0.7217
+CYP2D6 inhibition,-,0.9331
+CYP1A2 inhibition,-,0.632
+CYP2C8 inhibition,-,0.9714
+CYP inhibitory promiscuity,-,0.706
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.7639
+Carcinogenicity (trinary),Non-required,0.5111
+Eye corrosion,+,0.8156
+Eye irritation,+,0.9807
+Skin irritation,+,0.8698
+Skin corrosion,+,0.8485
+Ames mutagenesis,-,0.62
+Human Ether-a-go-go-Related Gene inhibition,-,0.7708
+Micronuclear,-,0.97
+Hepatotoxicity,+,1
+skin sensitisation,+,0.7322
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.8556
+Mitochondrial toxicity,-,0.925
+Nephrotoxicity,+,0.7127
+Acute Oral Toxicity (c),III,0.6495
+Estrogen receptor binding,-,0.8703
+Androgen receptor binding,-,0.949
+Thyroid receptor binding,-,0.7734
+Glucocorticoid receptor binding,-,0.7977
+Aromatase binding,-,0.8661
+PPAR gamma,-,0.7948
+Honey bee toxicity,-,0.5089
+Biodegradation,-,0.95
+Crustacea aquatic toxicity,+,0.76
+Fish aquatic toxicity,+,0.906
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.603,logS
+Plasma protein binding,0.35,100%
+Acute Oral Toxicity,1.274,log(1/(mol/kg))
+Tetrahymena pyriformis,1.477,pIGC50 (ug/L)
+  
+CCCOC(=O)C,Effect,Probability
+Human Intestinal Absorption,+,0.9965
+Caco-2,+,0.7992
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.5714
+Subcellular localzation,Mitochondria,0.6303
+OATP2B1 inhibitior,-,0.8445
+OATP1B1 inhibitior,+,0.9569
+OATP1B3 inhibitior,+,0.9246
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.8922
+P-glycoprotein inhibitior,-,0.9837
+P-glycoprotein substrate,-,0.984
+CYP3A4 substrate,-,0.7099
+CYP2C9 substrate,-,0.7977
+CYP2D6 substrate,-,0.8679
+CYP3A4 inhibition,-,0.9688
+CYP2C9 inhibition,-,0.9411
+CYP2C19 inhibition,-,0.9213
+CYP2D6 inhibition,-,0.9408
+CYP1A2 inhibition,+,0.5111
+CYP2C8 inhibition,-,0.9766
+CYP inhibitory promiscuity,-,0.8855
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.6
+Carcinogenicity (trinary),Non-required,0.6127
+Eye corrosion,+,0.9901
+Eye irritation,+,0.9807
+Skin irritation,+,0.7942
+Skin corrosion,-,0.89
+Ames mutagenesis,-,0.84
+Human Ether-a-go-go-Related Gene inhibition,-,0.7911
+Micronuclear,-,1
+Hepatotoxicity,+,0.6
+skin sensitisation,+,0.6907
+Respiratory toxicity,-,0.9444
+Reproductive toxicity,-,0.9778
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.7701
+Acute Oral Toxicity (c),III,0.5153
+Estrogen receptor binding,-,0.9328
+Androgen receptor binding,-,0.8712
+Thyroid receptor binding,-,0.9362
+Glucocorticoid receptor binding,-,0.9593
+Aromatase binding,-,0.9212
+PPAR gamma,-,0.9075
+Honey bee toxicity,-,0.9754
+Biodegradation,+,1
+Crustacea aquatic toxicity,-,0.7632
+Fish aquatic toxicity,+,0.7179
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.085,logS
+Plasma protein binding,0.055,100%
+Acute Oral Toxicity,1.15,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.303,pIGC50 (ug/L)
+  
+CC=C(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9911
+Caco-2,+,0.6801
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.5571
+Subcellular localzation,Lysosomes,0.4504
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.9466
+OATP1B3 inhibitior,+,0.9568
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.95
+BSEP inhibitior,-,0.8776
+P-glycoprotein inhibitior,-,0.9853
+P-glycoprotein substrate,-,0.9934
+CYP3A4 substrate,-,0.8118
+CYP2C9 substrate,-,0.7983
+CYP2D6 substrate,-,0.7996
+CYP3A4 inhibition,-,0.9436
+CYP2C9 inhibition,-,0.8927
+CYP2C19 inhibition,-,0.9075
+CYP2D6 inhibition,-,0.9281
+CYP1A2 inhibition,-,0.8718
+CYP2C8 inhibition,-,0.9979
+CYP inhibitory promiscuity,-,0.6843
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.6683
+Carcinogenicity (trinary),Warning,0.61
+Eye corrosion,+,0.945
+Eye irritation,+,0.9932
+Skin irritation,+,0.8007
+Skin corrosion,-,0.7896
+Ames mutagenesis,-,0.88
+Human Ether-a-go-go-Related Gene inhibition,-,0.7777
+Micronuclear,-,0.97
+Hepatotoxicity,+,0.7
+skin sensitisation,+,0.8752
+Respiratory toxicity,-,0.9333
+Reproductive toxicity,-,0.9778
+Mitochondrial toxicity,-,0.5839
+Nephrotoxicity,+,0.6595
+Acute Oral Toxicity (c),III,0.8122
+Estrogen receptor binding,-,0.9398
+Androgen receptor binding,-,0.9455
+Thyroid receptor binding,-,0.8482
+Glucocorticoid receptor binding,-,0.8976
+Aromatase binding,-,0.8585
+PPAR gamma,-,0.8793
+Honey bee toxicity,-,0.8752
+Biodegradation,+,0.625
+Crustacea aquatic toxicity,-,0.71
+Fish aquatic toxicity,+,0.8634
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.622,logS
+Plasma protein binding,0.549,100%
+Acute Oral Toxicity,1.446,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.673,pIGC50 (ug/L)
+  
+COC(=O)C=C,Effect,Probability
+Human Intestinal Absorption,+,0.9944
+Caco-2,+,0.8336
+Blood Brain Barrier,+,0.925
+Human oral bioavailability,-,0.5429
+Subcellular localzation,Mitochondria,0.5194
+OATP2B1 inhibitior,-,1
+OATP1B1 inhibitior,+,0.9618
+OATP1B3 inhibitior,+,0.9632
+MATE1 inhibitior,-,0.8
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9378
+P-glycoprotein inhibitior,-,0.9862
+P-glycoprotein substrate,-,0.9912
+CYP3A4 substrate,-,0.6781
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.879
+CYP3A4 inhibition,-,0.9618
+CYP2C9 inhibition,-,0.9376
+CYP2C19 inhibition,-,0.9189
+CYP2D6 inhibition,-,0.9735
+CYP1A2 inhibition,-,0.8252
+CYP2C8 inhibition,-,0.9789
+CYP inhibitory promiscuity,-,0.937
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.7027
+Carcinogenicity (trinary),Non-required,0.618
+Eye corrosion,+,0.9906
+Eye irritation,+,0.9805
+Skin irritation,+,0.8536
+Skin corrosion,+,0.6524
+Ames mutagenesis,-,0.96
+Human Ether-a-go-go-Related Gene inhibition,-,0.7676
+Micronuclear,-,0.83
+Hepatotoxicity,+,0.5034
+skin sensitisation,+,0.9333
+Respiratory toxicity,-,0.9222
+Reproductive toxicity,-,1
+Mitochondrial toxicity,-,0.9625
+Nephrotoxicity,+,0.7225
+Acute Oral Toxicity (c),II,0.5547
+Estrogen receptor binding,-,0.9139
+Androgen receptor binding,-,0.7773
+Thyroid receptor binding,-,0.8739
+Glucocorticoid receptor binding,-,0.8139
+Aromatase binding,-,0.8552
+PPAR gamma,-,0.8946
+Honey bee toxicity,-,0.7789
+Biodegradation,+,0.8
+Crustacea aquatic toxicity,-,0.78
+Fish aquatic toxicity,+,0.7487
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.283,logS
+Plasma protein binding,0.239,100%
+Acute Oral Toxicity,2.279,log(1/(mol/kg))
+Tetrahymena pyriformis,0.52,pIGC50 (ug/L)
+  
+CCCCOC(=O)CC,Effect,Probability
+Human Intestinal Absorption,+,0.997
+Caco-2,+,0.9462
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,-,0.5714
+Subcellular localzation,Mitochondria,0.609
+OATP2B1 inhibitior,-,0.8416
+OATP1B1 inhibitior,+,0.9361
+OATP1B3 inhibitior,+,0.9171
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.85
+BSEP inhibitior,-,0.8889
+P-glycoprotein inhibitior,-,0.987
+P-glycoprotein substrate,-,0.9624
+CYP3A4 substrate,-,0.5917
+CYP2C9 substrate,-,0.7977
+CYP2D6 substrate,-,0.8679
+CYP3A4 inhibition,-,0.9513
+CYP2C9 inhibition,-,0.9277
+CYP2C19 inhibition,-,0.9391
+CYP2D6 inhibition,-,0.9225
+CYP1A2 inhibition,-,0.5
+CYP2C8 inhibition,-,0.873
+CYP inhibitory promiscuity,-,0.8517
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.64
+Carcinogenicity (trinary),Non-required,0.6625
+Eye corrosion,+,0.987
+Eye irritation,+,0.9828
+Skin irritation,-,0.6447
+Skin corrosion,-,0.9941
+Ames mutagenesis,-,0.95
+Human Ether-a-go-go-Related Gene inhibition,-,0.6719
+Micronuclear,-,1
+Hepatotoxicity,-,0.6625
+skin sensitisation,+,0.7184
+Respiratory toxicity,-,0.9
+Reproductive toxicity,-,1
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.624
+Acute Oral Toxicity (c),III,0.8356
+Estrogen receptor binding,-,0.9567
+Androgen receptor binding,-,0.8679
+Thyroid receptor binding,-,0.9112
+Glucocorticoid receptor binding,-,0.9404
+Aromatase binding,-,0.9286
+PPAR gamma,-,0.8954
+Honey bee toxicity,-,0.9914
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,-,0.51
+Fish aquatic toxicity,+,0.9484
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.773,logS
+Plasma protein binding,0.326,100%
+Acute Oral Toxicity,1.383,log(1/(mol/kg))
+Tetrahymena pyriformis,0.079,pIGC50 (ug/L)
+  
+SMILE: CCOCCCC  
+Human Intestinal Absorption,+,0.994
+Caco-2,+,0.9616
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.7286
+Subcellular localzation,Lysosomes,0.4731
+OATP2B1 inhibitior,-,0.8439
+OATP1B1 inhibitior,+,0.9316
+OATP1B3 inhibitior,+,0.9426
+MATE1 inhibitior,-,0.96
+OCT2 inhibitior,-,0.8
+BSEP inhibitior,-,0.9506
+P-glycoprotein inhibitior,-,0.9778
+P-glycoprotein substrate,-,0.9623
+CYP3A4 substrate,-,0.6666
+CYP2C9 substrate,-,1
+CYP2D6 substrate,-,0.7019
+CYP3A4 inhibition,-,0.9781
+CYP2C9 inhibition,-,0.919
+CYP2C19 inhibition,-,0.9024
+CYP2D6 inhibition,-,0.9426
+CYP1A2 inhibition,-,0.7012
+CYP2C8 inhibition,-,0.942
+CYP inhibitory promiscuity,-,0.9061
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.6
+Carcinogenicity (trinary),Non-required,0.5995
+Eye corrosion,+,0.9662
+Eye irritation,+,1
+Skin irritation,-,0.7817
+Skin corrosion,-,0.9842
+Ames mutagenesis,-,1
+Human Ether-a-go-go-Related Gene inhibition,-,0.6709
+Micronuclear,-,1
+Hepatotoxicity,-,0.55
+skin sensitisation,+,0.7982
+Respiratory toxicity,-,0.9889
+Reproductive toxicity,-,0.8622
+Mitochondrial toxicity,-,1
+Nephrotoxicity,+,0.7486
+Acute Oral Toxicity (c),III,0.5429
+Estrogen receptor binding,-,0.9316
+Androgen receptor binding,-,0.9037
+Thyroid receptor binding,-,0.7953
+Glucocorticoid receptor binding,-,0.9219
+Aromatase binding,-,0.9171
+PPAR gamma,-,0.9142
+Honey bee toxicity,-,0.9874
+Biodegradation,-,0.7
+Crustacea aquatic toxicity,-,0.6952
+Fish aquatic toxicity,+,0.7627
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.912,logS
+Plasma protein binding,0.673,100%
+Acute Oral Toxicity,1.341,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.139,pIGC50 (ug/L)
+  
+CCOC(=O)CC(=O)OCC  
+Human Intestinal Absorption,+,0.9586
+Caco-2,+,0.6836
+Blood Brain Barrier,+,0.85
+Human oral bioavailability,+,0.7
+Subcellular localzation,Mitochondria,0.8085
+OATP2B1 inhibitior,-,0.8499
+OATP1B1 inhibitior,+,0.9696
+OATP1B3 inhibitior,+,0.9604
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.9
+BSEP inhibitior,-,0.897
+P-glycoprotein inhibitior,-,0.9724
+P-glycoprotein substrate,-,0.9941
+CYP3A4 substrate,-,0.6841
+CYP2C9 substrate,-,0.5886
+CYP2D6 substrate,-,0.8689
+CYP3A4 inhibition,-,0.9068
+CYP2C9 inhibition,-,0.9025
+CYP2C19 inhibition,-,0.8669
+CYP2D6 inhibition,-,0.9199
+CYP1A2 inhibition,-,0.8868
+CYP2C8 inhibition,-,0.9775
+CYP inhibitory promiscuity,-,0.8125
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.5166
+Carcinogenicity (trinary),Non-required,0.6261
+Eye corrosion,+,0.9544
+Eye irritation,+,0.992
+Skin irritation,-,0.5959
+Skin corrosion,-,0.7345
+Ames mutagenesis,-,0.99
+Human Ether-a-go-go-Related Gene inhibition,-,0.7694
+Micronuclear,-,0.93
+Hepatotoxicity,+,0.542
+skin sensitisation,-,0.8239
+Respiratory toxicity,-,0.9333
+Reproductive toxicity,-,0.7889
+Mitochondrial toxicity,-,0.9375
+Nephrotoxicity,+,0.6491
+Acute Oral Toxicity (c),IV,0.6271
+Estrogen receptor binding,-,0.7862
+Androgen receptor binding,-,0.9659
+Thyroid receptor binding,-,0.9127
+Glucocorticoid receptor binding,-,0.8719
+Aromatase binding,-,0.9185
+PPAR gamma,-,0.8884
+Honey bee toxicity,-,0.955
+Biodegradation,+,0.85
+Crustacea aquatic toxicity,-,0.62
+Fish aquatic toxicity,+,0.8572
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.757,logS
+Plasma protein binding,-0.058,100%
+Acute Oral Toxicity,1.658,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.851,pIGC50 (ug/L)
+  
+CC[Pb](CC)(CC)CC,Effect,Probability
+Human Intestinal Absorption,+,0.8579
+Caco-2,+,0.7426
+Blood Brain Barrier,+,0.875
+Human oral bioavailability,+,0.7571
+Subcellular localzation,Lysosomes,0.6641
+OATP2B1 inhibitior,-,0.861
+OATP1B1 inhibitior,+,0.9548
+OATP1B3 inhibitior,+,0.9466
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.775
+BSEP inhibitior,-,0.9425
+P-glycoprotein inhibitior,-,0.985
+P-glycoprotein substrate,-,0.9802
+CYP3A4 substrate,-,0.7948
+CYP2C9 substrate,-,0.8078
+CYP2D6 substrate,-,0.781
+CYP3A4 inhibition,-,0.9683
+CYP2C9 inhibition,-,0.8673
+CYP2C19 inhibition,-,0.8731
+CYP2D6 inhibition,-,0.9463
+CYP1A2 inhibition,-,0.8262
+CYP2C8 inhibition,-,0.9926
+CYP inhibitory promiscuity,-,0.9012
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.57
+Carcinogenicity (trinary),Non-required,0.5685
+Eye corrosion,+,0.9594
+Eye irritation,+,1
+Skin irritation,+,0.7602
+Skin corrosion,+,0.8218
+Ames mutagenesis,-,0.95
+Human Ether-a-go-go-Related Gene inhibition,-,0.8027
+Micronuclear,-,0.93
+Hepatotoxicity,+,0.7002
+skin sensitisation,-,0.5788
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.8333
+Mitochondrial toxicity,+,0.5336
+Nephrotoxicity,+,0.5339
+Acute Oral Toxicity (c),III,0.7112
+Estrogen receptor binding,-,0.8982
+Androgen receptor binding,-,0.9108
+Thyroid receptor binding,-,0.8788
+Glucocorticoid receptor binding,-,0.9215
+Aromatase binding,-,0.8079
+PPAR gamma,-,0.8596
+Honey bee toxicity,-,0.9494
+Biodegradation,-,0.625
+Crustacea aquatic toxicity,-,0.67
+Fish aquatic toxicity,-,0.3767
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.393,logS
+Plasma protein binding,0.349,100%
+Acute Oral Toxicity,2.812,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.66,pIGC50 (ug/L)
+  
+CCCC(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9926
+Caco-2,+,0.7315
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.8571
+Subcellular localzation,Lysosomes,0.3807
+OATP2B1 inhibitior,-,0.8589
+OATP1B1 inhibitior,+,0.9666
+OATP1B3 inhibitior,+,0.9477
+MATE1 inhibitior,-,0.9
+OCT2 inhibitior,-,0.85
+BSEP inhibitior,-,0.9613
+P-glycoprotein inhibitior,-,0.9852
+P-glycoprotein substrate,-,0.9361
+CYP3A4 substrate,-,0.8039
+CYP2C9 substrate,-,0.8153
+CYP2D6 substrate,-,0.7243
+CYP3A4 inhibition,-,0.9891
+CYP2C9 inhibition,-,0.9473
+CYP2C19 inhibition,-,0.955
+CYP2D6 inhibition,-,0.9521
+CYP1A2 inhibition,-,0.7912
+CYP2C8 inhibition,-,0.9971
+CYP inhibitory promiscuity,-,0.8572
+UGT catelyzed,-,0
+Carcinogenicity (binary),-,0.53
+Carcinogenicity (trinary),Non-required,0.5691
+Eye corrosion,+,0.9927
+Eye irritation,+,0.9968
+Skin irritation,+,0.8701
+Skin corrosion,-,0.9554
+Ames mutagenesis,-,0.94
+Human Ether-a-go-go-Related Gene inhibition,-,0.752
+Micronuclear,-,1
+Hepatotoxicity,+,0.8016
+skin sensitisation,+,0.9037
+Respiratory toxicity,+,0.6222
+Reproductive toxicity,-,0.7333
+Mitochondrial toxicity,+,0.9
+Nephrotoxicity,+,0.5099
+Acute Oral Toxicity (c),III,0.5296
+Estrogen receptor binding,-,0.9352
+Androgen receptor binding,-,0.9469
+Thyroid receptor binding,-,0.8749
+Glucocorticoid receptor binding,-,0.9504
+Aromatase binding,-,0.8984
+PPAR gamma,-,0.9233
+Honey bee toxicity,-,0.9645
+Biodegradation,+,0.975
+Crustacea aquatic toxicity,-,0.62
+Fish aquatic toxicity,+,0.8565
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-3.973,logS
+Plasma protein binding,1.138,100%
+Acute Oral Toxicity,0.95,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.595,pIGC50 (ug/L)
+  
+  
+  
+CCl,Effect,Probability
+  
+Human Intestinal Absorption  0.9902
+Caco-2  0.5695
+Blood Brain Barrier  1
+Human oral bioavailability  0.8286
+Subcellular localzation  0.5239
+OATP2B1 inhibitior  0.8765
+OATP1B1 inhibitior  0.974
+OATP1B3 inhibitior  0.9632
+MATE1 inhibitior  0.9
+OCT2 inhibitior  0.975
+BSEP inhibitior  0.9386
+P-glycoprotein inhibitior  0.9867
+P-glycoprotein substrate  0.9964
+CYP3A4 substrate  0.8021
+CYP2C9 substrate  1
+CYP2D6 substrate  0.7862
+CYP3A4 inhibition  0.9799
+CYP2C9 inhibition  0.9258
+CYP2C19 inhibition  0.8822
+CYP2D6 inhibition  0.9553
+CYP1A2 inhibition  0.8097
+CYP2C8 inhibition  0.9963
+CYP inhibitory promiscuity  0.9273
+UGT catelyzed  0
+Carcinogenicity (binary)  0.7073
+Carcinogenicity (trinary)  0.6316
+Eye corrosion  0.9743
+Eye irritation  0.9847
+Skin irritation  0.8974
+Skin corrosion  0.8517
+Ames mutagenesis  0.81
+Human Ether-a-go-go-Related Gene inhibition  0.799
+Micronuclear  0.87
+Hepatotoxicity  0.95
+skin sensitisation  0.5768
+Respiratory toxicity  0.9889
+Reproductive toxicity  0.6556
+Mitochondrial toxicity  0.9875
+Nephrotoxicity  0.7852
+Acute Oral Toxicity (c)  0.8029
+Estrogen receptor binding  0.9257
+Androgen receptor binding  0.9514
+Thyroid receptor binding  0.8617
+Glucocorticoid receptor binding  0.8944
+Aromatase binding  0.8923
+PPAR gamma  0.9113
+Honey bee toxicity  0.8421
+Biodegradation  0.65
+Crustacea aquatic toxicity  0.5
+Fish aquatic toxicity  0.6366
+ADMET predicted profile --- Regressions  Unit
+Water solubility  logS
+Plasma protein binding  100%
+Acute Oral Toxicity  log(1/(mol/kg))
+Tetrahymena pyriformis  pIGC50 (ug/L)
+  
+CCCN,Effect,Probability
+Human Intestinal Absorption  0.992
+Caco-2  0.8255
+Blood Brain Barrier  1
+Human oral bioavailability  0.8857
+Subcellular localzation  0.9477
+OATP2B1 inhibitior  0.8695
+OATP1B1 inhibitior  0.9703
+OATP1B3 inhibitior  0.9504
+MATE1 inhibitior  0.88
+OCT2 inhibitior  0.7
+BSEP inhibitior  0.9491
+P-glycoprotein inhibitior  0.986
+P-glycoprotein substrate  0.9557
+CYP3A4 substrate  0.8596
+CYP2C9 substrate  1
+CYP2D6 substrate  0.5
+CYP3A4 inhibition  0.9421
+CYP2C9 inhibition  0.9092
+CYP2C19 inhibition  0.9101
+CYP2D6 inhibition  0.8129
+CYP1A2 inhibition  0.7175
+CYP2C8 inhibition  0.9812
+CYP inhibitory promiscuity  0.8682
+UGT catelyzed  0
+Carcinogenicity (binary)  0.53
+Carcinogenicity (trinary)  0.6854
+Eye corrosion  1
+Eye irritation  0.9699
+Skin irritation  0.9021
+Skin corrosion  0.9851
+Ames mutagenesis  0.9025
+Human Ether-a-go-go-Related Gene inhibition  0.7713
+Micronuclear  0.91
+Hepatotoxicity  0.6199
+skin sensitisation  0.5682
+Respiratory toxicity  0.6444
+Reproductive toxicity  0.6667
+Mitochondrial toxicity  0.6625
+Nephrotoxicity  0.5466
+Acute Oral Toxicity (c)  0.7849
+Estrogen receptor binding  0.891
+Androgen receptor binding  0.9404
+Thyroid receptor binding  0.8615
+Glucocorticoid receptor binding  0.9194
+Aromatase binding  0.9196
+PPAR gamma  0.8915
+Honey bee toxicity  0.9821
+Biodegradation  0.9
+Crustacea aquatic toxicity  0.87
+Fish aquatic toxicity  0.914
+ADMET predicted profile --- Regressions  Unit
+Water solubility  logS
+Plasma protein binding  100%
+Acute Oral Toxicity  log(1/(mol/kg))
+Tetrahymena pyriformis  pIGC50 (ug/L)
+  
+CCC(=O)OCC(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9954
+Caco-2,+,0.7787
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.5857
+Subcellular localzation,Mitochondria,0.7148
+OATP2B1 inhibitior,-,0.8379
+OATP1B1 inhibitior,+,0.9498
+OATP1B3 inhibitior,+,0.9413
+MATE1 inhibitior,-,0.86
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.857
+P-glycoprotein inhibitior,-,0.9734
+P-glycoprotein substrate,-,0.9667
+CYP3A4 substrate,-,0.6723
+CYP2C9 substrate,+,0.5942
+CYP2D6 substrate,-,0.8718
+CYP3A4 inhibition,-,0.9569
+CYP2C9 inhibition,-,0.9157
+CYP2C19 inhibition,-,0.9333
+CYP2D6 inhibition,-,0.9388
+CYP1A2 inhibition,-,0.7339
+CYP2C8 inhibition,-,0.988
+CYP inhibitory promiscuity,-,0.8492
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.56
+Carcinogenicity (trinary),Warning,0.5386
+Eye corrosion,+,0.9748
+Eye irritation,+,0.9864
+Skin irritation,-,0.6793
+Skin corrosion,-,0.9856
+Ames mutagenesis,-,0.96
+Human Ether-a-go-go-Related Gene inhibition,-,0.7062
+Micronuclear,-,0.97
+Hepatotoxicity,-,0.5875
+skin sensitisation,+,0.7223
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.9667
+Mitochondrial toxicity,-,1
+Nephrotoxicity,-,0.6981
+Acute Oral Toxicity (c),III,0.8141
+Estrogen receptor binding,-,0.9682
+Androgen receptor binding,-,0.9223
+Thyroid receptor binding,-,0.9255
+Glucocorticoid receptor binding,-,0.9331
+Aromatase binding,-,0.8907
+PPAR gamma,-,0.9237
+Honey bee toxicity,-,0.953
+Biodegradation,+,0.875
+Crustacea aquatic toxicity,-,0.7255
+Fish aquatic toxicity,+,0.8741
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.827,logS
+Plasma protein binding,0.453,100%
+Acute Oral Toxicity,1.244,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.663,pIGC50 (ug/L)
+  
+CCSC#N,Effect,Probability
+Human Intestinal Absorption,+,0.9891
+Caco-2,+,0.5666
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.7857
+Subcellular localzation,Lysosomes,0.556
+OATP2B1 inhibitior,-,0.8697
+OATP1B1 inhibitior,+,0.9492
+OATP1B3 inhibitior,+,0.9539
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.8884
+P-glycoprotein inhibitior,-,0.9862
+P-glycoprotein substrate,-,0.9659
+CYP3A4 substrate,-,0.7518
+CYP2C9 substrate,-,0.8
+CYP2D6 substrate,-,0.7695
+CYP3A4 inhibition,-,0.9667
+CYP2C9 inhibition,-,0.7978
+CYP2C19 inhibition,-,0.8005
+CYP2D6 inhibition,-,0.9165
+CYP1A2 inhibition,-,0.5375
+CYP2C8 inhibition,-,0.9717
+CYP inhibitory promiscuity,-,0.6095
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.64
+Carcinogenicity (trinary),Non-required,0.7069
+Eye corrosion,+,0.9944
+Eye irritation,+,0.9904
+Skin irritation,+,0.8676
+Skin corrosion,+,0.637
+Ames mutagenesis,-,0.88
+Human Ether-a-go-go-Related Gene inhibition,-,0.7332
+Micronuclear,-,0.74
+Hepatotoxicity,+,0.8324
+skin sensitisation,+,0.7894
+Respiratory toxicity,-,0.5556
+Reproductive toxicity,-,0.6444
+Mitochondrial toxicity,-,0.85
+Nephrotoxicity,+,0.7558
+Acute Oral Toxicity (c),III,0.4243
+Estrogen receptor binding,-,0.9062
+Androgen receptor binding,-,0.9426
+Thyroid receptor binding,-,0.8509
+Glucocorticoid receptor binding,-,0.8381
+Aromatase binding,-,0.863
+PPAR gamma,-,0.848
+Honey bee toxicity,-,0.7311
+Biodegradation,-,0.525
+Crustacea aquatic toxicity,+,0.64
+Fish aquatic toxicity,-,0.529
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.188,logS
+Plasma protein binding,0.365,100%
+Acute Oral Toxicity,2.922,log(1/(mol/kg))
+Tetrahymena pyriformis,0.569,pIGC50 (ug/L)
+  
+C(CBr)Br,Effect,Probability
+Human Intestinal Absorption,+,0.9716
+Caco-2,+,0.6466
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.7714
+Subcellular localzation,Lysosomes,0.5048
+OATP2B1 inhibitior,-,0.8723
+OATP1B1 inhibitior,+,0.9712
+OATP1B3 inhibitior,+,0.9544
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.9514
+P-glycoprotein inhibitior,-,0.9862
+P-glycoprotein substrate,-,0.994
+CYP3A4 substrate,-,0.8431
+CYP2C9 substrate,-,0.5774
+CYP2D6 substrate,-,0.7501
+CYP3A4 inhibition,-,0.9705
+CYP2C9 inhibition,-,0.8624
+CYP2C19 inhibition,-,0.8449
+CYP2D6 inhibition,-,0.9592
+CYP1A2 inhibition,-,0.7368
+CYP2C8 inhibition,-,0.9928
+CYP inhibitory promiscuity,-,0.8243
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5378
+Carcinogenicity (trinary),Danger,0.5843
+Eye corrosion,+,1
+Eye irritation,+,0.9795
+Skin irritation,+,0.911
+Skin corrosion,-,0.6647
+Ames mutagenesis,+,0.91
+Human Ether-a-go-go-Related Gene inhibition,-,0.7509
+Micronuclear,-,0.96
+Hepatotoxicity,+,0.975
+skin sensitisation,-,0.6449
+Respiratory toxicity,-,0.9556
+Reproductive toxicity,-,0.5556
+Mitochondrial toxicity,-,0.9125
+Nephrotoxicity,+,0.5997
+Acute Oral Toxicity (c),II,0.7429
+Estrogen receptor binding,-,0.9358
+Androgen receptor binding,-,0.9627
+Thyroid receptor binding,-,0.8795
+Glucocorticoid receptor binding,-,0.9187
+Aromatase binding,-,0.9038
+PPAR gamma,-,0.9353
+Honey bee toxicity,-,0.7749
+Biodegradation,-,0.925
+Crustacea aquatic toxicity,-,0.52
+Fish aquatic toxicity,-,0.6396
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.742,logS
+Plasma protein binding,0.769,100%
+Acute Oral Toxicity,3.06,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.208,pIGC50 (ug/L)
+  
+CC[Pb](CC)(CC)CC,Effect,Probability
+Human Intestinal Absorption,+,0.8579
+Caco-2,+,0.7426
+Blood Brain Barrier,+,0.875
+Human oral bioavailability,+,0.7571
+Subcellular localzation,Lysosomes,0.6641
+OATP2B1 inhibitior,-,0.861
+OATP1B1 inhibitior,+,0.9548
+OATP1B3 inhibitior,+,0.9466
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.775
+BSEP inhibitior,-,0.9425
+P-glycoprotein inhibitior,-,0.985
+P-glycoprotein substrate,-,0.9802
+CYP3A4 substrate,-,0.7948
+CYP2C9 substrate,-,0.8078
+CYP2D6 substrate,-,0.781
+CYP3A4 inhibition,-,0.9683
+CYP2C9 inhibition,-,0.8673
+CYP2C19 inhibition,-,0.8731
+CYP2D6 inhibition,-,0.9463
+CYP1A2 inhibition,-,0.8262
+CYP2C8 inhibition,-,0.9926
+CYP inhibitory promiscuity,-,0.9012
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.57
+Carcinogenicity (trinary),Non-required,0.5685
+Eye corrosion,+,0.9594
+Eye irritation,+,1
+Skin irritation,+,0.7602
+Skin corrosion,+,0.8218
+Ames mutagenesis,-,0.95
+Human Ether-a-go-go-Related Gene inhibition,-,0.8027
+Micronuclear,-,0.93
+Hepatotoxicity,+,0.7002
+skin sensitisation,-,0.5788
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.8333
+Mitochondrial toxicity,+,0.5336
+Nephrotoxicity,+,0.5339
+Acute Oral Toxicity (c),III,0.7112
+Estrogen receptor binding,-,0.8982
+Androgen receptor binding,-,0.9108
+Thyroid receptor binding,-,0.8788
+Glucocorticoid receptor binding,-,0.9215
+Aromatase binding,-,0.8079
+PPAR gamma,-,0.8596
+Honey bee toxicity,-,0.9494
+Biodegradation,-,0.625
+Crustacea aquatic toxicity,-,0.67
+Fish aquatic toxicity,-,0.3767
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-2.393,logS
+Plasma protein binding,0.349,100%
+Acute Oral Toxicity,2.812,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.66,pIGC50 (ug/L)
+  
+C(CBr)Br,Effect,Probability
+Human Intestinal Absorption,+,0.9716
+Caco-2,+,0.6466
+Blood Brain Barrier,+,0.975
+Human oral bioavailability,+,0.7714
+Subcellular localzation,Lysosomes,0.5048
+OATP2B1 inhibitior,-,0.8723
+OATP1B1 inhibitior,+,0.9712
+OATP1B3 inhibitior,+,0.9544
+MATE1 inhibitior,-,1
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.9514
+P-glycoprotein inhibitior,-,0.9862
+P-glycoprotein substrate,-,0.994
+CYP3A4 substrate,-,0.8431
+CYP2C9 substrate,-,0.5774
+CYP2D6 substrate,-,0.7501
+CYP3A4 inhibition,-,0.9705
+CYP2C9 inhibition,-,0.8624
+CYP2C19 inhibition,-,0.8449
+CYP2D6 inhibition,-,0.9592
+CYP1A2 inhibition,-,0.7368
+CYP2C8 inhibition,-,0.9928
+CYP inhibitory promiscuity,-,0.8243
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.5378
+Carcinogenicity (trinary),Danger,0.5843
+Eye corrosion,+,1
+Eye irritation,+,0.9795
+Skin irritation,+,0.911
+Skin corrosion,-,0.6647
+Ames mutagenesis,+,0.91
+Human Ether-a-go-go-Related Gene inhibition,-,0.7509
+Micronuclear,-,0.96
+Hepatotoxicity,+,0.975
+skin sensitisation,-,0.6449
+Respiratory toxicity,-,0.9556
+Reproductive toxicity,-,0.5556
+Mitochondrial toxicity,-,0.9125
+Nephrotoxicity,+,0.5997
+Acute Oral Toxicity (c),II,0.7429
+Estrogen receptor binding,-,0.9358
+Androgen receptor binding,-,0.9627
+Thyroid receptor binding,-,0.8795
+Glucocorticoid receptor binding,-,0.9187
+Aromatase binding,-,0.9038
+PPAR gamma,-,0.9353
+Honey bee toxicity,-,0.7749
+Biodegradation,-,0.925
+Crustacea aquatic toxicity,-,0.52
+Fish aquatic toxicity,-,0.6396
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.742,logS
+Plasma protein binding,0.769,100%
+Acute Oral Toxicity,3.06,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.208,pIGC50 (ug/L)
+  
+CCl,Effect,Probability
+ADMET predicted profile --- Classifications,Value,Probability
+Human Intestinal Absorption,+,0.9902
+Caco-2,+,0.5695
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.8286
+Subcellular localzation,Lysosomes,0.5239
+OATP2B1 inhibitior,-,0.8765
+OATP1B1 inhibitior,+,0.974
+OATP1B3 inhibitior,+,0.9632
+MATE1 inhibitior,-,0.9
+OCT2 inhibitior,-,0.975
+BSEP inhibitior,-,0.9386
+P-glycoprotein inhibitior,-,0.9867
+P-glycoprotein substrate,-,0.9964
+CYP3A4 substrate,-,0.8021
+CYP2C9 substrate,+,1
+CYP2D6 substrate,-,0.7862
+CYP3A4 inhibition,-,0.9799
+CYP2C9 inhibition,-,0.9258
+CYP2C19 inhibition,-,0.8822
+CYP2D6 inhibition,-,0.9553
+CYP1A2 inhibition,-,0.8097
+CYP2C8 inhibition,-,0.9963
+CYP inhibitory promiscuity,-,0.9273
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.7073
+Carcinogenicity (trinary),Non-required,0.6316
+Eye corrosion,+,0.9743
+Eye irritation,+,0.9847
+Skin irritation,+,0.8974
+Skin corrosion,+,0.8517
+Ames mutagenesis,-,0.81
+Human Ether-a-go-go-Related Gene inhibition,-,0.799
+Micronuclear,-,0.87
+Hepatotoxicity,+,0.95
+skin sensitisation,+,0.5768
+Respiratory toxicity,-,0.9889
+Reproductive toxicity,-,0.6556
+Mitochondrial toxicity,-,0.9875
+Nephrotoxicity,+,0.7852
+Acute Oral Toxicity (c),III,0.8029
+Estrogen receptor binding,-,0.9257
+Androgen receptor binding,-,0.9514
+Thyroid receptor binding,-,0.8617
+Glucocorticoid receptor binding,-,0.8944
+Aromatase binding,-,0.8923
+PPAR gamma,-,0.9113
+Honey bee toxicity,-,0.8421
+Biodegradation,+,0.65
+Crustacea aquatic toxicity,-,0.5
+Fish aquatic toxicity,-,0.6366
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.448,logS
+Plasma protein binding,0.225,100%
+Acute Oral Toxicity,1.678,log(1/(mol/kg))
+Tetrahymena pyriformis,-1.707,pIGC50 (ug/L)
+  
+CCC(=O)OCC(C)C,Effect,Probability
+Human Intestinal Absorption,+,0.9954
+Caco-2,+,0.7787
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.5857
+Subcellular localzation,Mitochondria,0.7148
+OATP2B1 inhibitior,-,0.8379
+OATP1B1 inhibitior,+,0.9498
+OATP1B3 inhibitior,+,0.9413
+MATE1 inhibitior,-,0.86
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.857
+P-glycoprotein inhibitior,-,0.9734
+P-glycoprotein substrate,-,0.9667
+CYP3A4 substrate,-,0.6723
+CYP2C9 substrate,+,0.5942
+CYP2D6 substrate,-,0.8718
+CYP3A4 inhibition,-,0.9569
+CYP2C9 inhibition,-,0.9157
+CYP2C19 inhibition,-,0.9333
+CYP2D6 inhibition,-,0.9388
+CYP1A2 inhibition,-,0.7339
+CYP2C8 inhibition,-,0.988
+CYP inhibitory promiscuity,-,0.8492
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.56
+Carcinogenicity (trinary),Warning,0.5386
+Eye corrosion,+,0.9748
+Eye irritation,+,0.9864
+Skin irritation,-,0.6793
+Skin corrosion,-,0.9856
+Ames mutagenesis,-,0.96
+Human Ether-a-go-go-Related Gene inhibition,-,0.7062
+Micronuclear,-,0.97
+Hepatotoxicity,-,0.5875
+skin sensitisation,+,0.7223
+Respiratory toxicity,-,0.7889
+Reproductive toxicity,-,0.9667
+Mitochondrial toxicity,-,1
+Nephrotoxicity,-,0.6981
+Acute Oral Toxicity (c),III,0.8141
+Estrogen receptor binding,-,0.9682
+Androgen receptor binding,-,0.9223
+Thyroid receptor binding,-,0.9255
+Glucocorticoid receptor binding,-,0.9331
+Aromatase binding,-,0.8907
+PPAR gamma,-,0.9237
+Honey bee toxicity,-,0.953
+Biodegradation,+,0.875
+Crustacea aquatic toxicity,-,0.7255
+Fish aquatic toxicity,+,0.8741
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-1.827,logS
+Plasma protein binding,0.453,100%
+Acute Oral Toxicity,1.244,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.663,pIGC50 (ug/L)
+  
+CCSC#N,Effect,Probability
+Human Intestinal Absorption,+,0.9891
+Caco-2,+,0.5666
+Blood Brain Barrier,+,0.95
+Human oral bioavailability,+,0.7857
+Subcellular localzation,Lysosomes,0.556
+OATP2B1 inhibitior,-,0.8697
+OATP1B1 inhibitior,+,0.9492
+OATP1B3 inhibitior,+,0.9539
+MATE1 inhibitior,-,0.98
+OCT2 inhibitior,-,0.925
+BSEP inhibitior,-,0.8884
+P-glycoprotein inhibitior,-,0.9862
+P-glycoprotein substrate,-,0.9659
+CYP3A4 substrate,-,0.7518
+CYP2C9 substrate,-,0.8
+CYP2D6 substrate,-,0.7695
+CYP3A4 inhibition,-,0.9667
+CYP2C9 inhibition,-,0.7978
+CYP2C19 inhibition,-,0.8005
+CYP2D6 inhibition,-,0.9165
+CYP1A2 inhibition,-,0.5375
+CYP2C8 inhibition,-,0.9717
+CYP inhibitory promiscuity,-,0.6095
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.64
+Carcinogenicity (trinary),Non-required,0.7069
+Eye corrosion,+,0.9944
+Eye irritation,+,0.9904
+Skin irritation,+,0.8676
+Skin corrosion,+,0.637
+Ames mutagenesis,-,0.88
+Human Ether-a-go-go-Related Gene inhibition,-,0.7332
+Micronuclear,-,0.74
+Hepatotoxicity,+,0.8324
+skin sensitisation,+,0.7894
+Respiratory toxicity,-,0.5556
+Reproductive toxicity,-,0.6444
+Mitochondrial toxicity,-,0.85
+Nephrotoxicity,+,0.7558
+Acute Oral Toxicity (c),III,0.4243
+Estrogen receptor binding,-,0.9062
+Androgen receptor binding,-,0.9426
+Thyroid receptor binding,-,0.8509
+Glucocorticoid receptor binding,-,0.8381
+Aromatase binding,-,0.863
+PPAR gamma,-,0.848
+Honey bee toxicity,-,0.7311
+Biodegradation,-,0.525
+Crustacea aquatic toxicity,+,0.64
+Fish aquatic toxicity,-,0.529
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,-0.188,logS
+Plasma protein binding,0.365,100%
+Acute Oral Toxicity,2.922,log(1/(mol/kg))
+Tetrahymena pyriformis,0.569,pIGC50 (ug/L)
+  
+CCCN,Effect,Probability
+Human Intestinal Absorption,+,0.992
+Caco-2,+,0.8255
+Blood Brain Barrier,+,1
+Human oral bioavailability,+,0.8857
+Subcellular localzation,Lysosomes,0.9477
+OATP2B1 inhibitior,-,0.8695
+OATP1B1 inhibitior,+,0.9703
+OATP1B3 inhibitior,+,0.9504
+MATE1 inhibitior,-,0.88
+OCT2 inhibitior,-,0.7
+BSEP inhibitior,-,0.9491
+P-glycoprotein inhibitior,-,0.986
+P-glycoprotein substrate,-,0.9557
+CYP3A4 substrate,-,0.8596
+CYP2C9 substrate,-,1
+CYP2D6 substrate,+,0.5
+CYP3A4 inhibition,-,0.9421
+CYP2C9 inhibition,-,0.9092
+CYP2C19 inhibition,-,0.9101
+CYP2D6 inhibition,-,0.8129
+CYP1A2 inhibition,-,0.7175
+CYP2C8 inhibition,-,0.9812
+CYP inhibitory promiscuity,-,0.8682
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.53
+Carcinogenicity (trinary),Non-required,0.6854
+Eye corrosion,+,1
+Eye irritation,+,0.9699
+Skin irritation,+,0.9021
+Skin corrosion,+,0.9851
+Ames mutagenesis,-,0.9025
+Human Ether-a-go-go-Related Gene inhibition,-,0.7713
+Micronuclear,-,0.91
+Hepatotoxicity,+,0.6199
+skin sensitisation,-,0.5682
+Respiratory toxicity,+,0.6444
+Reproductive toxicity,-,0.6667
+Mitochondrial toxicity,+,0.6625
+Nephrotoxicity,+,0.5466
+Acute Oral Toxicity (c),II,0.7849
+Estrogen receptor binding,-,0.891
+Androgen receptor binding,-,0.9404
+Thyroid receptor binding,-,0.8615
+Glucocorticoid receptor binding,-,0.9194
+Aromatase binding,-,0.9196
+PPAR gamma,-,0.8915
+Honey bee toxicity,-,0.9821
+Biodegradation,+,0.9
+Crustacea aquatic toxicity,-,0.87
+Fish aquatic toxicity,-,0.914
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,0.184,logS
+Plasma protein binding,0.379,100%
+Acute Oral Toxicity,2.15,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.681,pIGC50 (ug/L)
+  
+CCNCC,Effect,Probability
+uman Intestinal Absorption,+,0.9861
+Caco-2,+,0.7951
+Blood Brain Barrier,+,0.925
+Human oral bioavailability,+,0.8429
+Subcellular localzation,Lysosomes,0.9326
+OATP2B1 inhibitior,-,0.8662
+OATP1B1 inhibitior,+,0.9427
+OATP1B3 inhibitior,+,0.9518
+MATE1 inhibitior,-,0.94
+OCT2 inhibitior,-,0.7
+BSEP inhibitior,-,0.9413
+P-glycoprotein inhibitior,-,0.9865
+P-glycoprotein substrate,-,0.9433
+CYP3A4 substrate,-,0.8177
+CYP2C9 substrate,-,0.7927
+CYP2D6 substrate,+,0.4648
+CYP3A4 inhibition,-,0.9765
+CYP2C9 inhibition,-,0.8768
+CYP2C19 inhibition,-,0.9128
+CYP2D6 inhibition,-,0.9131
+CYP1A2 inhibition,-,0.7056
+CYP2C8 inhibition,-,0.9873
+CYP inhibitory promiscuity,-,0.8932
+UGT catelyzed,-,0
+Carcinogenicity (binary),+,0.55
+Carcinogenicity (trinary),Non-required,0.6828
+Eye corrosion,+,1
+Eye irritation,+,0.9907
+Skin irritation,+,0.8598
+Skin corrosion,+,0.9671
+Ames mutagenesis,-,0.98
+Human Ether-a-go-go-Related Gene inhibition,-,0.829
+Micronuclear,-,0.96
+Hepatotoxicity,+,0.7752
+skin sensitisation,+,0.581
+Respiratory toxicity,-,0.9
+Reproductive toxicity,-,0.9556
+Mitochondrial toxicity,-,0.7375
+Nephrotoxicity,+,0.6738
+Acute Oral Toxicity (c),III,0.8473
+Estrogen receptor binding,-,0.9457
+Androgen receptor binding,-,0.9388
+Thyroid receptor binding,-,0.8421
+Glucocorticoid receptor binding,-,0.9454
+Aromatase binding,-,0.9134
+PPAR gamma,-,0.8979
+Honey bee toxicity,-,0.9592
+Biodegradation,+,0.75
+Crustacea aquatic toxicity,-,0.72
+Fish aquatic toxicity,-,0.8095
+ADMET predicted profile --- Regressions,Value,Unit
+Water solubility,0.391,logS
+Plasma protein binding,0.244,100%
+Acute Oral Toxicity,2.145,log(1/(mol/kg))
+Tetrahymena pyriformis,-0.756,pIGC50 (ug/L)
